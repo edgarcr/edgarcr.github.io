@@ -1,0 +1,25 @@
+﻿/*
+Theme Name: Creativel Rill
+Theme URI: http://creativelrill.com
+Author: Edgar Ribeiro
+Version: 1.0.0
+License: GPLv2 or later
+*/
+
+
+.bg-w {background-color: #fff; min-height: 300px}
+.bg-b {background-color: #51a0ec; min-height: 300px}
+
+/* Text Styles */
+
+p {font-family: 'PT Mono', sans-serif;}
+h1, h2, h3,h4 {font-family: 'Oswald', sans-serif; text-align: center; line-height: 40px;}
+
+h1 { font-size: 40px;}
+ 
+h2 {font-size: 30px;}
+ 
+h3 {font-size: 24px;}
+ 
+h4 {font-size: 18px;}
+ 
