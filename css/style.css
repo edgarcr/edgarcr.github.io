@@ -9,6 +9,7 @@ License: GPLv2 or later
 
 .bg-w {background-color: #fff; min-height: 300px;}
 .bg-b {background-color: #51a0ec; min-height: 300px; color: #fff;}
+.bg-b a{color: #fff;}
 
 /* Text Styles */
 
