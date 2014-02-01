@@ -7,16 +7,16 @@ License: GPLv2 or later
 */
 
 
-.bg-w {background-color: #fff; min-height: 300px;}
-.bg-b {background-color: #51a0ec; min-height: 300px; color: #fff;}
+.bg-w {background-color: #fff; min-height: 300px; padding-bottom: 20px;}
+.bg-b {background-color: #51a0ec; min-height: 300px; color: #fff; padding-bottom: 20px;}
 .bg-b a{color: #fff;}
 
 /* Text Styles */
 
-p {font-family: 'PT Mono', sans-serif; font-size: 1.2em; line-height: 2;}
+p {font-family: 'PT Mono', sans-serif; font-size: 1.2em; line-height: 2; margin-right: 20px;}
 
-h1 {font-family: 'Oswald', sans-serif;  font-size: 3em; line-height: 40px; text-align: left; margin-left: 20px;}
+h1 {font-family: 'Droid Sans', sans-serif; font-size: 3em; line-height: 40px; text-align: left; margin-left: 20px;}
  
 h2 {font-family: 'PT Mono', sans-serif; font-size: 2em; line-height: 40px; text-align: left;}
 
-.picture {padding-left: 100px;}
+.picture {padding-left: 50px; vertical-align:middle;}
